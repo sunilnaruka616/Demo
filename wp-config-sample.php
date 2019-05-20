@@ -8,6 +8,8 @@
  *
  * This file contains the following configurations:
  *
+ 
+ 
  * * MySQL settings
  * * Secret keys
  * * Database table prefix
